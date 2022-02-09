@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+<li>
+    <a href="index.html">home</a>
+</li>
+<li>
+    <a href="contato.html">contato</a>
+</li>
+
+    </ul>
+    <h1>a maquina</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Earum et obcaecati nulla distinctio tenetur, animi cum eos. 
+        Adipisci ea quas sed id magni cupiditate?
+         Similique officia quia ipsam ut corporis!
+
+    </p>
+
+<img src="https://th.bing.com/th/id/R.1ad7bb185353a933504f3277d6d1d7e9?rik=WBa%2f3TyFJRMHGA&pid=ImgRaw&r=0" alt=" o mostro">
+
+<H2>o recorde do cristiano ronaldo </H2>
+<iframe width="560" height="315"
+ src="https://www.youtube.com/embed/Pg_lIqiyg6Q" 
+ title="YouTube video player" 
+ frameborder="0" 
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+ allowfullscreen></iframe>
+
+</body>
+</html>
