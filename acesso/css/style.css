@@ -1,0 +1,40 @@
+/* estilos de paginas css*/
+.center {
+    text-align: center;
+}
+.justify{
+  text-align: justify;
+}
+
+.container{
+  display: flex ;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  
+}
+.menu li{
+
+display: inline;
+padding: 25px;
+}
+#menu li a {
+  text-decoration: none;
+  color: aqua;
+  font-size: 25px;
+}
+#menu li a :hover{
+  color: blue;
+
+}
+.br-pt{
+  border-radius: 40%;
+}
+.wh{
+  width: 300px;
+  height: 400px;
+}
+
+
+
+
+/* estilos de paginas css
